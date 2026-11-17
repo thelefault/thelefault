@@ -40,7 +40,7 @@ PostgreSQL · Docker · Git · Swagger · S3 / MinIO
 
 
 <p align="center">
-  <img src="./assets/calling-card.gif"
+  <img src="https://tenor.com/ru/view/smash-card-gif-25458501"
        alt="Steal Your Heart"
        width="700">
 </p>
