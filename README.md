@@ -4,8 +4,7 @@ Hi, I'm Alan!
 Currently learning
 - C++ and System Programming
 - OpenGL and Graphics Programming
-- Computer Vision
-- Computer Architecture
+- ML, Computer Vision and Deep Learning
 Tech Stack
 
 C++ Python Go PostgreSQL Git SDL3 OpenGL etc.
