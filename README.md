@@ -6,7 +6,7 @@
 
 ---
 
-### THE PHANTOM THIEF'S ARSENAL
+### TECH STACK
 
 **Languages**
 
@@ -22,7 +22,7 @@ PostgreSQL · Docker · Git · Swagger · S3 / MinIO
 
 ---
 
-### CURRENT PALACE INFILTRATIONS
+### CURRENTLY LEARNING
 
 - **C++ & System Programming** — Exploring memory, performance, and low-level systems.
 - **OpenGL & Computer Graphics** — Learning how to bring pixels and polygons to life.
@@ -44,5 +44,3 @@ PostgreSQL · Docker · Git · Swagger · S3 / MinIO
        alt="Steal Your Heart"
        width="700">
 </p>
-
-**STEAL YOUR HEART.**
