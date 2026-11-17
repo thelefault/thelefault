@@ -37,5 +37,3 @@ PostgreSQL · Docker · Git · Swagger · S3 / MinIO
 > I've come to steal your heart.
 >
 > But first, I have a few bugs to fix.
-
-<div class="tenor-gif-embed" data-postid="25458501" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/smash-card-gif-25458501">Smash Card GIF</a>from <a href="https://tenor.com/search/smash+card-gifs">Smash Card GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
