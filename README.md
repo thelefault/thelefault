@@ -39,7 +39,7 @@ PostgreSQL · Docker · Git · Swagger · S3 / MinIO
 > But first, I have a few bugs to fix.
 
 <p align="center">
-  <img src="./assets/calling-card.gif"
+  <img src="./assets/take-your-heart.gif"
        width="700"
        alt="Persona 5 Calling Card">
 </p>
