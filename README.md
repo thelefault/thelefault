@@ -37,3 +37,9 @@ PostgreSQL · Docker · Git · Swagger · S3 / MinIO
 > I've come to steal your heart.
 >
 > But first, I have a few bugs to fix.
+
+<p align="center">
+  <img src="./assets/calling-card.gif"
+       width="700"
+       alt="Persona 5 Calling Card">
+</p>
