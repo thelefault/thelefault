@@ -1,5 +1,5 @@
 Hi, I'm Alan!
-Computer Science student interested in low-level programming, computer graphics and software engineering.
+3 year Computer Science student interested in low-level programming, computer graphics, ML and software engineering.
 
 Currently learning
 - C++ and System Programming
@@ -8,4 +8,4 @@ Currently learning
 - Computer Architecture
 Tech Stack
 
-C++ Python Java Go PostgreSQL Git SDL3 OpenGL
+C++ Python Go PostgreSQL Git SDL3 OpenGL etc.
