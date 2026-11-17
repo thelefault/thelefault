@@ -1,10 +1,48 @@
-Hi, I'm Alan!
-3 year Computer Science student interested in low-level programming, computer graphics, ML and software engineering.
+# TAKE YOUR HEART!
 
-Currently learning
-- C++ and System Programming
-- OpenGL and Graphics Programming
-- ML, Computer Vision and Deep Learning
-Tech Stack
+### Hi, I'm Alan!
 
-C++ Python Java Go PostgreSQL Git SDL3 OpenGL Docker Swagger S3/MinIO etc .
+**3rd-year Computer Science student** interested in low-level programming, computer graphics, machine learning, and software engineering.
+
+---
+
+### THE PHANTOM THIEF'S ARSENAL
+
+**Languages**
+
+C++ · Python · Go · Java
+
+**Graphics & Systems**
+
+OpenGL · SDL3 · CMake
+
+**Backend & Tools**
+
+PostgreSQL · Docker · Git · Swagger · S3 / MinIO
+
+---
+
+### CURRENT PALACE INFILTRATIONS
+
+- **C++ & System Programming** — Exploring memory, performance, and low-level systems.
+- **OpenGL & Computer Graphics** — Learning how to bring pixels and polygons to life.
+- **Machine Learning & Computer Vision** — Teaching machines to see and recognize patterns.
+
+---
+
+### THE CALLING CARD
+
+> Dear visitor,
+>
+> I've come to steal your heart.
+>
+> But first, I have a few bugs to fix.
+
+
+<p align="center">
+  <img src="./assets/calling-card.gif"
+       alt="Steal Your Heart"
+       width="700">
+</p>
+
+**STEAL YOUR HEART.**
