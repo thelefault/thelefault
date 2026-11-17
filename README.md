@@ -7,4 +7,4 @@ Currently learning
 - ML, Computer Vision and Deep Learning
 Tech Stack
 
-C++ Python Java Go PostgreSQL Git SDL3 OpenGL etc.
+C++ Python Java Go PostgreSQL Git SDL3 OpenGL Docker Swagger S3/MinIO etc .
